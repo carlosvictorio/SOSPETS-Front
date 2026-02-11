@@ -72,6 +72,7 @@
   --primary-foreground: oklch(1 0 0);
   /* Accent — Laranja */
   --accent: oklch(0.72 0.2 60); /* laranja */
+  --accent-hover: #e38f46;
   --accent-foreground: oklch(0.15 0 0);
   /* Secondary — Azul claro */
   --secondary: oklch(0.96 0.03 250); /* #E8F1FA */
