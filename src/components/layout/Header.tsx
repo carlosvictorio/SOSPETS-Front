@@ -37,7 +37,7 @@ const Header = () => {
         </NavLink>
 
         <NavLink
-          to="/adoption"
+          to="/beavolunteer"
           className={({ isActive }) => navLinkClass(isActive)}
         >
           Volunteers
